@@ -17,3 +17,5 @@ data/
 .idea/
 .vscode/
 .DS_Store
+
+.pi-web
